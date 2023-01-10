@@ -13290,8 +13290,8 @@ figcaption {
 .banner-details-wrapper-sticky .banner-title-area .title {
   color: #ffffff;
   font-weight: 700;
-  font-size: 60px;
-  line-height: 62px;
+  font-size: 40px;
+  line-height: 52px;
   margin-bottom: 22px;
   font-family: var(--font-secondary);
 }
@@ -13320,7 +13320,7 @@ figcaption {
   }
 }
 .banner-details-wrapper-sticky .banner-title-area .title .span {
-  font-size: 48px;
+  font-size: 28px;
   color: var(--color-white);
 }
 @media only screen and (max-width: 767px) {
@@ -13361,6 +13361,7 @@ figcaption {
 .banner-details-wrapper-sticky .banner-title-area p {
   font-size: 18px;
   color: var(--color-body);
+  margin-bottom:10px;
 }
 @media only screen and (max-width: 767px) {
   .banner-details-wrapper-sticky .banner-title-area p {
@@ -16785,6 +16786,7 @@ span.sr-only {
   display: flex;
   align-items: center;
   justify-content: center;
+  background:#fff;
 }
 @media only screen and (max-width: 1199px) {
   .sticky-home-wrapper .rn-skill-area .inner .skill-share-inner .skill-share li {
