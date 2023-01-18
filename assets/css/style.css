@@ -19707,3 +19707,25 @@ body.white-version .rn-btn-ulderline {
   color: var(--color-white) !important;
 }
 /*# sourceMappingURL=../maps/style.css.map */
+h2.title{
+	font-size: 34px;
+}
+h2.title:after{
+	content: "";
+    background: #121415;
+    height: 1px;
+    width: 100%;
+    display: block;
+    margin-top: 10px;
+}
+h3.about-disc {
+    font-size: 28px;
+	
+}
+h4.about-disc {
+    font-size: 24px;
+	
+}
+.mb-20{
+	margin-bottom:20px !important;
+}
