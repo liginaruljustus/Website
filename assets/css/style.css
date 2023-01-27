@@ -19719,7 +19719,7 @@ h2.title:after{
     margin-top: 10px;
 }
 h3.about-disc {
-    font-size: 28px;
+    font-size: 26px;
 	
 }
 h4.about-disc {
@@ -19729,3 +19729,16 @@ h4.about-disc {
 .mb-20{
 	margin-bottom:20px !important;
 }
+p, ul li{
+	text-align:justify !important;
+}
+h3.heading3{
+	font-size: 22px;
+}
+.proc_list li span{
+	font-weight:bold;
+	color: #fff;
+}
+.wizi_time_content .timeline-tl-before{
+	display:none;
+} 
